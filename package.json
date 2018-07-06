@@ -1,0 +1,10 @@
+{
+  "name": "es6-training",
+  "version": "1.0.0",
+  "description": "ECMAScript 6 Training Project",
+  "main": "index.html",
+  "repository": "https://github.com/hssamconf/es6-training.git",
+  "author": "Houssam-Eddine RAFIKI <hssamconf@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
